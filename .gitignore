@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore node modules
+node_modules/
+
+# Ignore all JS files in the project
+*.js
+
+# Ignore Python cache
+__pycache__/
+*.pyc
